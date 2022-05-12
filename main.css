@@ -1,0 +1,19 @@
+body{
+    background-size:cover;
+   }
+   
+   .heading
+   {
+       font-size: 23px;
+       width: 100%;
+       margin: 0px;
+   }
+   .copy_right_footer {
+    position: fixed;
+    color: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: yellow;
+    line-height: 4;
+    text-align: center;
+} 
